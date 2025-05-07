@@ -1,2 +1,6 @@
 its newbranch
+<<<<<<< HEAD
 this is an update in newbraanch
+=======
+this is a branch1
+>>>>>>> branch1
