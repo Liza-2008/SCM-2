@@ -1,1 +1,2 @@
 its newbranch
+this is an update in newbraanch
